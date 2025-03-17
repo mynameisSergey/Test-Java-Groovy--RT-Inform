@@ -16,11 +16,9 @@ public class Java {
         if (associativeString.length() > 1)
             associativeString.setLength((associativeString.length() - 2));
 
-
         associativeString.append("}");
 
         System.out.println(associativeString);
-
     }
 
 }
